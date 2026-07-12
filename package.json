@@ -1,0 +1,14 @@
+{
+  "name": "roseption-live-bot",
+  "version": "1.0.0",
+  "description": "Kick Live Notification Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  }
+}
